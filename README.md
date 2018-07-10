@@ -1,6 +1,6 @@
-Cisco DevNet Learning Labs: Introduction to Using ACI with Ansible
+Cisco DevNet Learning Labs: Introduction to Using ACI and Ansible
 
-These self-paced interactive tutorials provide instructions for developers to learn about build and operate the ACI Fabric programmatically using its APIs.
+These self-paced interactive tutorials provide instructions for developers to learn about how to build and operate the ACI Fabric programmatically using its APIs.
 
 We write these labs for display within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
 
