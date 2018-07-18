@@ -1,4 +1,4 @@
-Cisco DevNet Learning Labs: Introduction to Using ACI and Ansible
+## Cisco DevNet Learning Labs: Introduction to Using ACI and Ansible
 
 These self-paced interactive tutorials provide instructions for developers to learn about how to build and operate the ACI Fabric programmatically using its APIs.
 
@@ -12,11 +12,30 @@ The goal of these learning labs is to ensure a 'hands-on' learning approach rath
 
 ## About these Learning Labs
 
-This set of learning labs provides introduction to both Cisco Application Centric Infrastructure (ACI) and how to use that part of Ansible.
+These labs teach how to:
+* Know Cisco Application Centric Infrastructure (ACI).
+* Use the ACI part of Ansible.
 
-If you need more help, reach out to Cisco DevNet through our [support channels](https://developer.cisco.com/site/devnet/support/).
 
-## Contributing
+If you need more help, you can reach out to DevNet through one of our [support options](https://developer.cisco.com/site/devnet/support/).
+
+## Preview Learning Lab Markdown locally
+
+You can preview how the Markdown renders by using a pre-built Docker image. The `Makefile` in the root of the repository lets you run `make preview` to view the output HTML.
+
+1. Make sure you have Docker installed locally. If not, [install Docker](https://docs.docker.com/install/) for your operating system.
+```
+$ docker -v
+```
+1. In the root of the repository, run:
+```
+$ make preview
+```
+1. Open a browser window with the URL: `http://localhost:9000`.
+1. Click a folder to find the Markdown file you want to preview.
+1. When you are done previewing, type `Ctrl+C` to stop running the Docker container.
+
+## Contributor guidelines
 
 These learning modules are for public consumption, so you must ensure that you have the rights to any content that you contribute.
 
@@ -37,7 +56,7 @@ A DevNet reviewer then creates a release on the repository with the latest `mast
 
 You can write Markdown in a plain text editor, and desktop and Web-based options allow you to write and preview your work at the same time. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for these reasons:
 - Lightweight environment for coding (or writing Markdown).
-- Available on macOS, Linux, or Windows.
+- Available on MacOS, Linux, or Windows.
 - Github Client integration.
 - Great Markdown preview features native in the editor.
 - Intuitive operation and structure.
@@ -47,4 +66,4 @@ You can validate a JSON file by using the [online formatter and validator](https
 ## Getting involved
 
 * If you'd like to contribute to an existing lab, refer to [contributing.md](contributing.md).
-* If you're interested in creating a new Cisco DevNet Learning Lab, please contact a DevNet administrator for guidance.    
+* If you're interested in creating a new Cisco DevNet Learning Lab, please contact a DevNet administrator for guidance.
