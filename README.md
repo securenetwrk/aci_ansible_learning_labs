@@ -13,9 +13,8 @@ The goal of these learning labs is to ensure a 'hands-on' learning approach rath
 ## About these Learning Labs
 
 These labs teach how to:
-* Know Cisco Application Centric Infrastructure (ACI).
-* Use the ACI part of Ansible.
-
+* Know about Cisco Application Centric Infrastructure (ACI).
+* Use the ACI part of Asnible.
 
 If you need more help, you can reach out to DevNet through one of our [support options](https://developer.cisco.com/site/devnet/support/).
 
@@ -56,7 +55,7 @@ A DevNet reviewer then creates a release on the repository with the latest `mast
 
 You can write Markdown in a plain text editor, and desktop and Web-based options allow you to write and preview your work at the same time. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for these reasons:
 - Lightweight environment for coding (or writing Markdown).
-- Available on MacOS, Linux, or Windows.
+- Available on macOS, Linux, or Windows.
 - Github Client integration.
 - Great Markdown preview features native in the editor.
 - Intuitive operation and structure.
